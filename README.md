@@ -1,5 +1,4 @@
-1. Change App name according to your project <app>
-# app template
+# NiveshIQ
 
 2. Change folder name postgre_dajngo to your <project_name> 
 #
